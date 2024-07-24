@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => {
+
    
     const titulo = document.getElementById('titulo');
     const listaNaoOrdenada = document.getElementById('lista-nao-ordenada');
@@ -22,4 +22,4 @@ document.addEventListener('DOMContentLoaded', () => {
         <li><a href="https://site2.com">Site 2</a></li>
         <li><a href="https://site3.com">Site 3</a></li>
     `;
-});
+
